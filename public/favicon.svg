@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#020a09"/>
+  <rect x="3" y="3" width="58" height="58" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-dasharray="6 3"/>
+  <!-- M letter -->
+  <path d="M10 50 L10 16 L22 38 L32 20 L42 38 L54 16 L54 50" fill="none" stroke="#2dd4bf" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- teal glow dot center -->
+  <circle cx="32" cy="32" r="2.5" fill="#2dd4bf" opacity="0.5"/>
+</svg>
